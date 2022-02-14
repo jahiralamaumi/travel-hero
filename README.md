@@ -1,5 +1,5 @@
 <h1>[Fun Project] Get Your Travelling Experience Scored</h1>
-<p>View Live demo here: </p>
+<p>View Live demo here: https://frosty-mcnulty-3f5c2b.netlify.app/</p>
 <ul>
   <li>There is a list of some tourist site.</li>
   <li>You can select which place you've visited till now.</li>
